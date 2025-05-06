@@ -1,2 +1,26 @@
 # Pandas_Project_2
-This project explored the relationship between violent crime and weather-related factors such as temperature, precipitation, and the discomfort index.
+
+- 본 프로젝트에서는 대구시 기온, 에너지, 건강, 범죄 데이터를 총체적으로 분석하였습니다.
+- 저는 그 중에서 기온 데이터와 범죄 데이터를 활용하여 상관관계를 분석했습니다.
+
+## 🔧 사용한 기술
+
+- Python
+- Pandas
+- Matplotlib
+
+## 📂 활용 데이터셋 출처
+
+- 2006 ~ 2018 대구시 폭력범 발생(건) 데이터
+- 2006 ~ 2018 대구시 월별 평균 온도 및 강수량 데이터
+
+## 📂 파일 설명 
+
+- visulaize_project.ipynb : Jupyter Notebook 활용한 데이터 분석 코드
+- font.py : 시각화 - 한글화를 위한 폰트 파일   
+
+## 🎯 프로젝트 목표 
+
+- 판다스 라이브러리를 활용한 데이터 분석
+- Matplotlib 라이브러리를 활용한 시각화
+- 상관계수를 통한 데이터 간의 연관성 분석
