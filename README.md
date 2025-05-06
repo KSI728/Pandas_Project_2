@@ -16,7 +16,7 @@
 
 ## 📂 파일 설명 
 
-- visulaize_project.ipynb : Jupyter Notebook 활용한 데이터 분석 코드
+- visulize_project.ipynb : Jupyter Notebook 활용한 데이터 분석 코드
 - font.py : 시각화 - 한글화를 위한 폰트 파일   
 
 ## 🎯 프로젝트 목표 
